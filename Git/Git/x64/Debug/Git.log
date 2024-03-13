@@ -1,0 +1,5 @@
+﻿  Git.cpp
+C:\Users\murad\OneDrive\Desktop\Git_repasitory\Git\Git\Git.cpp(920,9): warning C4101: 'chose': unreferenced local variable
+C:\Users\murad\OneDrive\Desktop\Git_repasitory\Git\Git\Git.cpp(682): warning C4715: 'axtaris_telefon': not all control paths return a value
+C:\Users\murad\OneDrive\Desktop\Git_repasitory\Git\Git\Git.cpp(808): warning C4715: 'axtaris_isci': not all control paths return a value
+  Git.vcxproj -> C:\Users\murad\OneDrive\Desktop\Git_repasitory\Git\x64\Debug\Git.exe
